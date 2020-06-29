@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42049697253",
+    "firebase_url": "https://attendenceapp-cbbbe.firebaseio.com",
+    "project_id": "attendenceapp-cbbbe",
+    "storage_bucket": "attendenceapp-cbbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42049697253:android:ca295d574b0b2c0b7d2b0c",
+        "android_client_info": {
+          "package_name": "com.example.attendenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42049697253-ic7sk8kepvqjv8593b97g2kbnt18jel3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5g3p4MAF4mcstdwoCD-LdydpsgmBeg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42049697253-ic7sk8kepvqjv8593b97g2kbnt18jel3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
